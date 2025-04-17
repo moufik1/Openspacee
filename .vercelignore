@@ -1,0 +1,16 @@
+/vendor
+/node_modules
+/.git
+/.env
+/.env.*
+/storage/*.key
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*
+/tests
+/phpunit.xml
+/.editorconfig
+/.gitattributes
+/.gitignore
+/README.md
